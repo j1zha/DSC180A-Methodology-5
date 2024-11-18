@@ -1,5 +1,3 @@
-# My DSC 180A Methodology Assignment 5 Website
-
 **Name:** Jiarui Zha 
 **Email:** j1zha@ucsd.edu  
 
