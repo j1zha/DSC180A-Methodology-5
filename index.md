@@ -1,5 +1,5 @@
 **Name:** Jiarui Zha 
-**Email:** j1zha@ucsd.edu  
+**Email:** j1zha@ucsd.edu   
 
 **Section:** A14  
 **Mentor:** Lily Weng
